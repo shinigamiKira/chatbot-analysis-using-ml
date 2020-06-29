@@ -26,9 +26,9 @@ The steps involved in the project are:
 
 4. evaluating the models
 
-5.tuning the parameters for better accuracy
+5. tuning the parameters for better accuracy
 
-6.final model creation and analysis outcome.
+6. final model creation and analysis outcome.
 
 Final result of analysis:
 The accuracy obtained is 0.7 (Naive Bayes algorithm)
