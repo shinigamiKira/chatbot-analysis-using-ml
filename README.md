@@ -9,7 +9,6 @@ Reference : DLithe
 Website : www.dlithe.com
 Project done under the guidance of : DLithe
 
-Done by: Shivansh Gyawar
 ChatBot analysis using machine learning models
 
 The main objective is to analyse the responses sent in to the mental health forum to the NGO.
